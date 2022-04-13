@@ -6,4 +6,7 @@ public class FileTest {
     public String getName () => {
         return name;
     }
+    public int getVal () => {
+        return val;
+    }
 }
